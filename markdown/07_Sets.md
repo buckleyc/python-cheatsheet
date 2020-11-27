@@ -122,9 +122,9 @@ s2 = {2, 3, 4}
 s1.difference(s2)  # or 's1 - s2'
 ```
 
-### set symetric_difference
+### set symmetric_difference
 
-`symetric_difference` or `^` will return all the elements that are not common between them.
+`symmetric_difference` or `^` will return all the elements that are not common between them.
 
 ```python
 s1 = {1, 2, 3}
